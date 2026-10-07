@@ -1,0 +1,7 @@
+{
+  "name": "kitten-auto-updates-test-app",
+  "private": true,
+  "engines": {
+    "kitten": "1"
+  }
+}
